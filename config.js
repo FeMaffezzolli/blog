@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog do Felipe Maffezzolli',
+  subtitle: 'Minhas anotações sobre tecnologia e ciência.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,31 +12,31 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Sobre',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contato',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Felipe Maffezzolli',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Desenvolvedor Fullstack. Administrado de Empresas. Estudante de Enganheria Aeroespacial.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'felip.maffezzolli@gmail.com',
+      facebook: 'https://www.facebook.com/felipemaffezzolli/',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/Fe_Maffezzolli',
+      github: 'https://github.com/FeMaffezzolli',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/felipe-santana-maffezzolli/',
       instagram: '#',
       line: '',
       gitlab: '',
